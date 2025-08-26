@@ -273,12 +273,7 @@ Create a privacy-first, AI-powered infectious disease monitoring platform that h
 3. Design AI model architecture
 4. Create enhanced datasets
 
-### Long-term Vision (Next 6 Months)
-1. Complete all development phases
-2. Establish research partnerships
-3. Launch public beta program
-4. Begin community building
 
 ---
 
-**Remember**: This roadmap is a living document that will evolve based on user feedback, technical discoveries, and research needs. Regular reviews and updates ensure the project stays aligned with its mission of advancing infectious disease research while maintaining the highest standards of privacy and security.
+This roadmap is a living document for Seeeker labs LLP that will evolve based on user feedback, technical discoveries, and research needs. Regular reviews and updates ensure the project stays aligned with its mission of advancing infectious disease research while maintaining the highest standards of privacy and security.
