@@ -86,4 +86,11 @@ Seekerlabs LLP - Project owner Pradeep varma circuit seekers
 
 ## ⚠️ Disclaimer
 
-This application is for educational and research purposes only. It is not intended for actual medical diagnosis or treatment. Always consult with qualified healthcare professionals for medical concerns.
+Copyright Notice
+© 2025 Seekerlabs LLP. All rights reserved.
+This project, including all source code, documentation, design files, and related assets, is the intellectual property of Seekerlabs LLP and its subsidiaries, Program Bees and Circuit Seekers.
+Unauthorized copying, modification, distribution, or use of this project, in whole or in part, without prior written authorization from Seekerlabs LLP is strictly prohibited.
+Any unauthorized use will be considered a violation of copyright law, and legal action may be pursued.
+For licensing inquiries, permissions, or authorized use, please contact:
+Seekerlabs LLP
+info@seekerlab.in
