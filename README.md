@@ -1,5 +1,7 @@
 # Infectious Disease Monitoring Website
 
+**Capstone Project: AI-Powered Infectious Disease Monitoring Platform**
+
 A privacy-focused web application for monitoring infectious diseases through photo analysis and medical report processing.
 
 ## 🚀 Features
@@ -37,8 +39,8 @@ infectious-disease-monitor/
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd infectious-disease-monitor
+   git clone https://github.com/circuitseeker/Infectious-disease-monitoring.git
+   cd Infectious-disease-monitoring
    ```
 
 2. **Open in browser**
@@ -66,13 +68,13 @@ infectious-disease-monitor/
 ## 🚧 Development Status
 
 - [x] Project structure setup
-- [ ] Frontend UI components
-- [ ] File upload functionality
-- [ ] Photo analysis integration
-- [ ] Medical report processing
-- [ ] Data visualization
-- [ ] Privacy features
-- [ ] Testing and validation
+- [x] Frontend UI components
+- [x] File upload functionality
+- [x] Photo analysis integration
+- [x] Medical report processing
+- [x] Data visualization
+- [x] Privacy features
+- [x] Testing and validation
 
 ## 🤝 Contributing
 
