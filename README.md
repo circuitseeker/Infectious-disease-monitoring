@@ -82,7 +82,7 @@ This is a research and educational project. Please ensure all data used is prope
 
 ## 📝 License
 
-[Add your license here]
+Seekerlabs LLP - Project owner Pradeep varma circuit seekers
 
 ## ⚠️ Disclaimer
 
