@@ -82,7 +82,10 @@ This is a research and educational project. Please ensure all data used is prope
 
 ## 📝 License
 
-Seekerlabs LLP - Project owner Pradeep varma circuit seekers
+This project is the intellectual property of Seekerlabs LLP.
+Project Owner: Pradeep Varma (Circuit Seekers)
+Client (Partial Rights / Usage): Harshitha 
+All rights are reserved by Seekerlabs LLP and its subsidiaries. Unauthorized use, reproduction, or distribution of this project without written permission is strictly prohibited.
 
 ## ⚠️ Disclaimer
 
