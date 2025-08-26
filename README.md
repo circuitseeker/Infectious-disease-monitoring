@@ -1,0 +1,87 @@
+# Infectious Disease Monitoring Website
+
+A privacy-focused web application for monitoring infectious diseases through photo analysis and medical report processing.
+
+## 🚀 Features
+
+- **Photo Upload & Analysis**: Upload photos of symptoms for AI-powered analysis
+- **Medical Report Processing**: Process and analyze medical reports
+- **Disease Classification**: Machine learning-based disease identification
+- **Data Visualization**: Interactive charts showing disease trends
+- **Privacy-First**: All processing happens client-side, no data leaves your device
+
+## 🏗️ Project Structure
+
+```
+infectious-disease-monitor/
+├── index.html              # Main application page
+├── css/                    # Stylesheets
+│   ├── main.css           # Main styles
+│   └── components.css     # Component-specific styles
+├── js/                    # JavaScript files
+│   ├── app.js            # Main application logic
+│   ├── upload.js         # File upload handling
+│   ├── analysis.js       # AI analysis functions
+│   ├── visualization.js  # Data visualization
+│   └── privacy.js        # Privacy and security features
+├── data/                  # Sample datasets
+│   ├── diseases.json     # Disease definitions
+│   ├── symptoms.json     # Symptom mappings
+│   └── sample-reports/   # Sample medical reports
+├── models/                # Pre-trained ML models
+├── assets/                # Images and other assets
+└── docs/                  # Documentation
+```
+
+## 🛠️ Setup Instructions
+
+1. **Clone the repository**
+   ```bash
+   git clone <your-repo-url>
+   cd infectious-disease-monitor
+   ```
+
+2. **Open in browser**
+   - Simply open `index.html` in a modern web browser
+   - Or use a local server: `python -m http.server 8000`
+
+3. **Deploy to GitHub Pages**
+   - Push to GitHub repository
+   - Enable GitHub Pages in repository settings
+   - Select source branch (usually `main` or `gh-pages`)
+
+## 🔒 Privacy & Security
+
+- **Client-Side Processing**: All data analysis happens in your browser
+- **No Server Storage**: Medical data never leaves your device
+- **Local Storage**: Data stored locally with encryption
+- **HIPAA Compliant**: Designed with healthcare privacy standards in mind
+
+## 📊 Data Sources
+
+- **Synthetic Data**: Generated realistic medical scenarios
+- **Public Datasets**: Anonymized health data (properly licensed)
+- **Simulated Cases**: Diverse disease presentations for testing
+
+## 🚧 Development Status
+
+- [x] Project structure setup
+- [ ] Frontend UI components
+- [ ] File upload functionality
+- [ ] Photo analysis integration
+- [ ] Medical report processing
+- [ ] Data visualization
+- [ ] Privacy features
+- [ ] Testing and validation
+
+## 🤝 Contributing
+
+This is a research and educational project. Please ensure all data used is properly licensed and anonymized.
+
+## 📝 License
+
+[Add your license here]
+
+## ⚠️ Disclaimer
+
+This application is for educational and research purposes only. It is not intended for actual medical diagnosis or treatment. Always consult with qualified healthcare professionals for medical concerns.

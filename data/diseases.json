@@ -1,0 +1,341 @@
+{
+  "diseases": [
+    {
+      "id": "d001",
+      "name": "Upper Respiratory Tract Infection",
+      "category": "Respiratory",
+      "common_pathogens": [
+        "Rhinovirus",
+        "Coronavirus",
+        "Influenza virus",
+        "Respiratory syncytial virus"
+      ],
+      "symptoms": [
+        "Runny nose",
+        "Sore throat",
+        "Cough",
+        "Congestion",
+        "Sneezing",
+        "Low-grade fever"
+      ],
+      "severity_levels": ["Mild", "Moderate", "Severe"],
+      "typical_duration": "7-10 days",
+      "risk_factors": [
+        "Weakened immune system",
+        "Smoking",
+        "Chronic respiratory conditions",
+        "Close contact with infected individuals"
+      ],
+      "prevention": [
+        "Frequent hand washing",
+        "Avoiding close contact with sick people",
+        "Getting adequate sleep",
+        "Maintaining good nutrition"
+      ],
+      "treatment": [
+        "Rest and hydration",
+        "Over-the-counter symptom relief",
+        "Antibiotics only if bacterial infection confirmed"
+      ]
+    },
+    {
+      "id": "d002",
+      "name": "Gastroenteritis",
+      "category": "Gastrointestinal",
+      "common_pathogens": [
+        "Norovirus",
+        "Rotavirus",
+        "Escherichia coli",
+        "Salmonella",
+        "Campylobacter"
+      ],
+      "symptoms": [
+        "Diarrhea",
+        "Nausea and vomiting",
+        "Abdominal cramps",
+        "Fever",
+        "Loss of appetite",
+        "Dehydration"
+      ],
+      "severity_levels": ["Mild", "Moderate", "Severe"],
+      "typical_duration": "1-3 days",
+      "risk_factors": [
+        "Contaminated food or water",
+        "Poor hygiene",
+        "Weakened immune system",
+        "Travel to developing countries"
+      ],
+      "prevention": [
+        "Proper food handling and cooking",
+        "Safe drinking water",
+        "Good personal hygiene",
+        "Vaccination (rotavirus)"
+      ],
+      "treatment": [
+        "Oral rehydration therapy",
+        "Rest",
+        "Gradual return to normal diet",
+        "Medical attention if severe"
+      ]
+    },
+    {
+      "id": "d003",
+      "name": "Urinary Tract Infection",
+      "category": "Genitourinary",
+      "common_pathogens": [
+        "Escherichia coli",
+        "Klebsiella pneumoniae",
+        "Proteus mirabilis",
+        "Enterococcus faecalis"
+      ],
+      "symptoms": [
+        "Frequent urination",
+        "Burning sensation during urination",
+        "Cloudy or strong-smelling urine",
+        "Lower abdominal pain",
+        "Blood in urine",
+        "Fever and chills"
+      ],
+      "severity_levels": ["Mild", "Moderate", "Severe"],
+      "typical_duration": "3-7 days with treatment",
+      "risk_factors": [
+        "Female gender",
+        "Sexual activity",
+        "Menopause",
+        "Diabetes",
+        "Urinary catheter use"
+      ],
+      "prevention": [
+        "Adequate hydration",
+        "Proper hygiene",
+        "Urinating after sexual activity",
+        "Avoiding irritating feminine products"
+      ],
+      "treatment": [
+        "Antibiotics",
+        "Pain relief medication",
+        "Increased fluid intake",
+        "Follow-up testing"
+      ]
+    },
+    {
+      "id": "d004",
+      "name": "Skin Infection",
+      "category": "Dermatological",
+      "common_pathogens": [
+        "Staphylococcus aureus",
+        "Streptococcus pyogenes",
+        "Candida albicans",
+        "Dermatophytes"
+      ],
+      "symptoms": [
+        "Redness and swelling",
+        "Pain or tenderness",
+        "Warmth in affected area",
+        "Pus or drainage",
+        "Fever",
+        "Enlarged lymph nodes"
+      ],
+      "severity_levels": ["Mild", "Moderate", "Severe"],
+      "typical_duration": "1-2 weeks with treatment",
+      "risk_factors": [
+        "Cuts or abrasions",
+        "Weakened immune system",
+        "Diabetes",
+        "Poor hygiene",
+        "Contact with infected individuals"
+      ],
+      "prevention": [
+        "Proper wound care",
+        "Good hygiene",
+        "Avoiding sharing personal items",
+        "Protecting skin from injury"
+      ],
+      "treatment": [
+        "Antibiotics (oral or topical)",
+        "Wound cleaning and dressing",
+        "Pain management",
+        "Surgical drainage if needed"
+      ]
+    },
+    {
+      "id": "d005",
+      "name": "Ear Infection",
+      "category": "Otolaryngological",
+      "common_pathogens": [
+        "Streptococcus pneumoniae",
+        "Haemophilus influenzae",
+        "Moraxella catarrhalis",
+        "Respiratory viruses"
+      ],
+      "symptoms": [
+        "Ear pain",
+        "Hearing difficulty",
+        "Fever",
+        "Irritability (in children)",
+        "Fluid drainage from ear",
+        "Balance problems"
+      ],
+      "severity_levels": ["Mild", "Moderate", "Severe"],
+      "typical_duration": "2-3 days with treatment",
+      "risk_factors": [
+        "Young age",
+        "Upper respiratory infections",
+        "Allergies",
+        "Exposure to secondhand smoke",
+        "Bottle feeding while lying down"
+      ],
+      "prevention": [
+        "Breastfeeding infants",
+        "Avoiding secondhand smoke",
+        "Proper hand hygiene",
+        "Vaccination (pneumococcal, flu)"
+      ],
+      "treatment": [
+        "Pain relief medication",
+        "Antibiotics if bacterial",
+        "Warm compresses",
+        "Follow-up examination"
+      ]
+    },
+    {
+      "id": "d006",
+      "name": "Eye Infection",
+      "category": "Ophthalmological",
+      "common_pathogens": [
+        "Staphylococcus aureus",
+        "Streptococcus pneumoniae",
+        "Haemophilus influenzae",
+        "Adenovirus",
+        "Herpes simplex virus"
+      ],
+      "symptoms": [
+        "Redness",
+        "Itching or burning",
+        "Discharge or crusting",
+        "Sensitivity to light",
+        "Blurred vision",
+        "Swelling of eyelids"
+      ],
+      "severity_levels": ["Mild", "Moderate", "Severe"],
+      "typical_duration": "1-2 weeks",
+      "risk_factors": [
+        "Contact lens use",
+        "Poor hygiene",
+        "Allergies",
+        "Weakened immune system",
+        "Eye trauma"
+      ],
+      "prevention": [
+        "Proper contact lens care",
+        "Good hand hygiene",
+        "Avoiding touching eyes",
+        "Not sharing eye makeup"
+      ],
+      "treatment": [
+        "Antibiotic eye drops",
+        "Warm compresses",
+        "Avoiding contact lenses",
+        "Medical evaluation"
+      ]
+    },
+    {
+      "id": "d007",
+      "name": "Dental Infection",
+      "category": "Dental",
+      "common_pathogens": [
+        "Streptococcus mutans",
+        "Lactobacillus",
+        "Actinomyces",
+        "Mixed anaerobic bacteria"
+      ],
+      "symptoms": [
+        "Toothache",
+        "Sensitivity to hot/cold",
+        "Swelling of gums or face",
+        "Bad taste in mouth",
+        "Fever",
+        "Difficulty chewing"
+      ],
+      "severity_levels": ["Mild", "Moderate", "Severe"],
+      "typical_duration": "Requires dental treatment",
+      "risk_factors": [
+        "Poor oral hygiene",
+        "High sugar diet",
+        "Dry mouth",
+        "Smoking",
+        "Diabetes"
+      ],
+      "prevention": [
+        "Regular brushing and flossing",
+        "Dental check-ups",
+        "Limiting sugary foods",
+        "Fluoride use"
+      ],
+      "treatment": [
+        "Dental cleaning and filling",
+        "Root canal if needed",
+        "Antibiotics for severe cases",
+        "Pain management"
+      ]
+    },
+    {
+      "id": "d008",
+      "name": "Fungal Infection",
+      "category": "Mycological",
+      "common_pathogens": [
+        "Candida albicans",
+        "Dermatophytes",
+        "Aspergillus",
+        "Cryptococcus neoformans"
+      ],
+      "symptoms": [
+        "Itching",
+        "Redness and scaling",
+        "Nail changes",
+        "Rash",
+        "Discharge (in mucosal areas)",
+        "Hair loss (scalp infections)"
+      ],
+      "severity_levels": ["Mild", "Moderate", "Severe"],
+      "typical_duration": "2-4 weeks with treatment",
+      "risk_factors": [
+        "Weakened immune system",
+        "Diabetes",
+        "Antibiotic use",
+        "Warm, moist environments",
+        "Poor hygiene"
+      ],
+      "prevention": [
+        "Keeping areas dry",
+        "Good hygiene",
+        "Avoiding sharing personal items",
+        "Wearing breathable clothing"
+      ],
+      "treatment": [
+        "Antifungal medications",
+        "Topical creams",
+        "Oral medications for severe cases",
+        "Addressing underlying conditions"
+      ]
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "last_updated": "2024-08-26",
+    "description": "Sample dataset of common infectious diseases for educational and demonstration purposes",
+    "disclaimer": "This data is for educational purposes only and should not be used for actual medical diagnosis or treatment. Always consult healthcare professionals for medical concerns.",
+    "data_source": "Synthetic data generated for demonstration",
+    "total_diseases": 8,
+    "categories": [
+      "Respiratory",
+      "Gastrointestinal", 
+      "Genitourinary",
+      "Dermatological",
+      "Otolaryngological",
+      "Ophthalmological",
+      "Dental",
+      "Mycological"
+    ]
+  }
+}
