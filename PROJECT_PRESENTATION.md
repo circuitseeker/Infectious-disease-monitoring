@@ -8,10 +8,6 @@
 # **Infectious Disease Monitoring Website**
 ### AI-Powered Healthcare Analytics Platform
 
-**Capstone Project**  
-**Student:** [Your Name]  
-**Institution:** [Your Institution]  
-**Date:** [Presentation Date]  
 
 ---
 
